@@ -1,7 +1,9 @@
 🧾TGPars
 Telegram spamer, inviter and parser
 ===================================
-
+<p align="center">
+  <img src="https://i.imgur.com/hd9zRrU.png">
+</p>
 
 # Installation
 * Windows:
