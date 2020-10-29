@@ -2,7 +2,7 @@
 Telegram spamer, inviter and parser
 ===================================
 <p align="center">
-  <img src="https://i.imgur.com/hd9zRrU.png">
+  <img src="https://i.imgur.com/pKU0iO2.png">
 </p>
 
 # Installation
