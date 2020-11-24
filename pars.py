@@ -58,7 +58,7 @@ chats.extend(result.chats)
  
 for chat in chats:
     try:
-        if chat.megagroup== True:
+        #if chat.megagroup== True:
             groups.append(chat)
     except:
         continue
