@@ -76,7 +76,7 @@ target_group=groups[int(g_index)]
 print(gr+'[+] Fetching Members...')
 time.sleep(1)
 all_participants = []
-all_participants = client.get_participants(target_group, aggressive=True)
+all_participants = client.get_participants(target_group, aggressive=False)
  
 print(gr+'[+] Saving In file...')
 time.sleep(1)
